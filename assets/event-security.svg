@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Event security team</title>
+  <desc id="desc">Security bouncers managing a busy event entrance.</desc>
+  <rect width="900" height="620" fill="#081b44"/>
+  <path d="M0 0h900v620H0z" fill="none"/>
+  <g opacity=".45">
+    <circle cx="127" cy="94" r="84" fill="#1269dd"/>
+    <circle cx="770" cy="122" r="112" fill="#ff6b16"/>
+    <circle cx="658" cy="480" r="168" fill="#0d49a0"/>
+  </g>
+  <g fill="#fff" opacity=".74">
+    <circle cx="115" cy="282" r="24"/><path d="M74 371c6-56 75-56 82 0z"/>
+    <circle cx="203" cy="270" r="28"/><path d="M154 373c8-67 89-67 98 0z"/>
+    <circle cx="735" cy="275" r="27"/><path d="M686 374c8-65 88-65 98 0z"/>
+    <circle cx="820" cy="291" r="22"/><path d="M781 373c6-52 72-52 78 0z"/>
+  </g>
+  <g transform="translate(315 83)">
+    <ellipse cx="139" cy="479" rx="164" ry="30" fill="#000" opacity=".24"/>
+    <path d="M44 210h194l49 124 9 186H-5l10-186z" fill="#061735"/>
+    <path d="M55 211h174l15 61c-64 31-124 31-204 1z" fill="#102f68"/>
+    <circle cx="141" cy="107" r="84" fill="#c4845a"/>
+    <path d="M57 89c19-82 107-119 185-60 6 49-7 82-39 109-39-39-86-57-146-49z" fill="#0a0f1f"/>
+    <path d="M77 208h128l-64 74z" fill="#fff"/>
+    <path d="M113 254h57l-15 251h-26z" fill="#ff6b16"/>
+    <path d="M4 323c-76 61-88 136-36 216l68-38c-28-47-19-83 32-119z" fill="#081b44"/>
+    <path d="M277 323c75 63 86 138 34 216l-68-38c29-47 20-84-31-119z" fill="#081b44"/>
+    <rect x="45" y="500" width="194" height="49" rx="16" fill="#030b1d"/>
+    <text x="141" y="359" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="38" font-weight="700">SECURITY</text>
+  </g>
+  <g transform="translate(205 158) scale(.7)" opacity=".82">
+    <circle cx="141" cy="107" r="84" fill="#b97850"/>
+    <path d="M44 210h194l49 124 9 186H-5l10-186z" fill="#061735"/>
+    <path d="M57 89c19-82 107-119 185-60 6 49-7 82-39 109-39-39-86-57-146-49z" fill="#0a0f1f"/>
+    <rect x="45" y="500" width="194" height="49" rx="16" fill="#030b1d"/>
+  </g>
+  <g transform="translate(570 160) scale(.68)" opacity=".78">
+    <circle cx="141" cy="107" r="84" fill="#c4845a"/>
+    <path d="M44 210h194l49 124 9 186H-5l10-186z" fill="#061735"/>
+    <path d="M57 89c19-82 107-119 185-60 6 49-7 82-39 109-39-39-86-57-146-49z" fill="#0a0f1f"/>
+    <rect x="45" y="500" width="194" height="49" rx="16" fill="#030b1d"/>
+  </g>
+</svg>

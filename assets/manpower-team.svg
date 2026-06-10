@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Manpower support team</title>
+  <desc id="desc">A professional team ready for facility support and staffing duty.</desc>
+  <rect width="900" height="620" fill="#eef5fb"/>
+  <path d="M0 410c155-74 302-79 445-17 146 63 299 54 455-28v255H0z" fill="#d8e7f5"/>
+  <path d="M590 40h238v425H590z" fill="#c7def2"/>
+  <path d="M625 83h62v70h-62zM720 83h62v70h-62zM625 190h62v70h-62zM720 190h62v70h-62zM625 297h62v70h-62zM720 297h62v70h-62z" fill="#f8fcff" stroke="#fff" stroke-width="6"/>
+  <g transform="translate(120 116)">
+    <ellipse cx="330" cy="452" rx="318" ry="36" fill="#061735" opacity=".15"/>
+    <g transform="translate(0 90) scale(.82)">
+      <circle cx="140" cy="92" r="70" fill="#bd7b54"/>
+      <path d="M75 78c19-69 88-95 149-43 2 36-13 66-42 89-29-29-61-43-107-46z" fill="#061735"/>
+      <path d="M62 174h156l42 99v183H16V273z" fill="#0b2d64"/>
+      <path d="M96 174h88l-44 60z" fill="#fff"/>
+      <rect x="63" y="450" width="154" height="45" rx="15" fill="#061735"/>
+    </g>
+    <g transform="translate(210 0)">
+      <circle cx="140" cy="92" r="78" fill="#c4845a"/>
+      <path d="M71 77c19-79 101-106 170-45 3 42-12 75-45 101-34-34-71-51-125-56z" fill="#061735"/>
+      <path d="M48 183h184l48 116v215H0V299z" fill="#0d49a0"/>
+      <path d="M91 183h98l-49 70z" fill="#fff"/>
+      <path d="M113 236h53l-14 268h-24z" fill="#ff6b16"/>
+      <rect x="50" y="506" width="184" height="48" rx="16" fill="#061735"/>
+    </g>
+    <g transform="translate(452 100) scale(.78)">
+      <circle cx="140" cy="92" r="70" fill="#b97850"/>
+      <path d="M75 78c19-69 88-95 149-43 2 36-13 66-42 89-29-29-61-43-107-46z" fill="#061735"/>
+      <path d="M62 174h156l42 99v183H16V273z" fill="#0b2d64"/>
+      <path d="M96 174h88l-44 60z" fill="#fff"/>
+      <rect x="63" y="450" width="154" height="45" rx="15" fill="#061735"/>
+    </g>
+  </g>
+</svg>

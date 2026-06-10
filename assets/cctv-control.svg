@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">CCTV monitoring control room</title>
+  <desc id="desc">A security officer monitoring camera screens in a control room.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#061735"/>
+      <stop offset="1" stop-color="#0d49a0"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#8fd6ff"/>
+      <stop offset="1" stop-color="#174f99"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <g opacity=".24" fill="#fff">
+    <circle cx="114" cy="102" r="74"/>
+    <circle cx="810" cy="92" r="110"/>
+    <circle cx="706" cy="542" r="158"/>
+  </g>
+  <g transform="translate(300 70)">
+    <rect x="0" y="0" width="244" height="150" rx="8" fill="#0a1f47" stroke="#dff2ff" stroke-width="5"/>
+    <rect x="282" y="0" width="244" height="150" rx="8" fill="#0a1f47" stroke="#dff2ff" stroke-width="5"/>
+    <rect x="0" y="185" width="244" height="150" rx="8" fill="#0a1f47" stroke="#dff2ff" stroke-width="5"/>
+    <rect x="282" y="185" width="244" height="150" rx="8" fill="#0a1f47" stroke="#dff2ff" stroke-width="5"/>
+    <path d="M18 112c51-63 115-78 202-36v56H18z" fill="url(#screen)"/>
+    <path d="M300 103c61-75 124-82 208-31v60H300z" fill="url(#screen)"/>
+    <path d="M18 296c40-57 114-74 204-38v59H18z" fill="url(#screen)"/>
+    <path d="M300 295c54-67 122-78 208-35v57H300z" fill="url(#screen)"/>
+    <path d="M34 46h82M316 47h86M37 232h78M316 232h89" stroke="#fff" stroke-opacity=".7" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(93 205)">
+    <ellipse cx="179" cy="360" rx="154" ry="28" fill="#000" opacity=".22"/>
+    <path d="M92 162h171l37 91v177H53V253z" fill="#0b2d64"/>
+    <circle cx="177" cy="86" r="74" fill="#b97850"/>
+    <path d="M99 72c17-71 94-101 160-54 7 45-6 78-39 100-35-34-71-48-121-46z" fill="#061735"/>
+    <path d="M118 161h119l-59 65z" fill="#fff"/>
+    <path d="M151 202h53l-16 224h-24z" fill="#ff6b16"/>
+    <path d="M257 222c62 39 86 90 71 153l-67-13c7-42-6-69-38-88z" fill="#0a2758"/>
+    <path d="M98 223c-59 42-81 92-66 151l67-13c-6-39 5-64 37-87z" fill="#0a2758"/>
+    <rect x="80" y="427" width="197" height="46" rx="15" fill="#061735"/>
+  </g>
+  <path d="M0 510h900v110H0z" fill="#071a3d" opacity=".55"/>
+</svg>

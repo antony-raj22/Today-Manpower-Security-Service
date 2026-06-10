@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Industrial security access control</title>
+  <desc id="desc">A security guard protects an industrial gate with CCTV and access control.</desc>
+  <rect width="900" height="620" fill="#e9f1f8"/>
+  <path d="M594 95h92v250h-92zM711 37h70v308h-70zM794 156h70v189h-70z" fill="#b8c6d8"/>
+  <path d="M575 345h315v61H575z" fill="#8fa2ba"/>
+  <path d="M0 405h900v215H0z" fill="#cbd8e8"/>
+  <path d="M0 402h900" stroke="#72849e" stroke-width="8"/>
+  <g stroke="#7d8da3" stroke-width="5">
+    <path d="M0 322h900M0 365h900"/>
+    <path d="M21 298v106M90 298v106M159 298v106M228 298v106M297 298v106M366 298v106M435 298v106M504 298v106M573 298v106M642 298v106M711 298v106M780 298v106M849 298v106"/>
+  </g>
+  <g transform="translate(95 152)">
+    <ellipse cx="190" cy="388" rx="170" ry="28" fill="#061735" opacity=".18"/>
+    <path d="M91 173h191l45 115v179H42V288z" fill="#061735"/>
+    <circle cx="187" cy="84" r="77" fill="#bf7d52"/>
+    <path d="M111 72c21-78 96-105 166-48 5 42-10 73-43 99-35-35-73-51-123-51z" fill="#0a0f1f"/>
+    <path d="M124 172h126l-63 71z" fill="#fff"/>
+    <path d="M158 228h58l-16 229h-25z" fill="#ff6b16"/>
+    <rect x="77" y="458" width="219" height="47" rx="16" fill="#030b1d"/>
+    <path d="M291 254h130v114H291z" fill="#0b2d64" stroke="#fff" stroke-width="7"/>
+    <circle cx="356" cy="310" r="34" fill="#ff6b16"/>
+  </g>
+  <g transform="translate(585 248)">
+    <rect x="0" y="0" width="170" height="116" rx="10" fill="#061735"/>
+    <rect x="15" y="16" width="65" height="37" fill="#72b7e6"/>
+    <rect x="91" y="16" width="64" height="37" fill="#72b7e6"/>
+    <rect x="15" y="65" width="65" height="37" fill="#72b7e6"/>
+    <rect x="91" y="65" width="64" height="37" fill="#72b7e6"/>
+  </g>
+  <path d="M620 239l73-38 89 22-76 38z" fill="#103f80"/>
+</svg>
